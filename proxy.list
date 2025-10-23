@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,hdfans.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,clashroyale
+DOMAIN-KEYWORD,supercell
 
 # 国外DNS
 
