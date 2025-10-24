@@ -1,4 +1,4 @@
 payload:
     - +.clashroyaleapp.com
     - +.supercell.com
-    - +.diabrowser.engineering
+    - '*diabrowser*'
