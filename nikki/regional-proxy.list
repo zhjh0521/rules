@@ -1,0 +1,7 @@
+# 以下网站只能走特殊节点，比如日本
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,diabrowser.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,diabrowser
