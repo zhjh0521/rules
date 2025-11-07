@@ -5,6 +5,9 @@
       "domain_suffix": [
         "diabrowser.com",
         "diabrowser.engineering"
+      ],
+      "domain_keyword": [
+        "diabrowser"
       ]
     }
   ]
