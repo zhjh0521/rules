@@ -4,8 +4,10 @@
     {
       "domain_suffix": [
         "supercell.com",
-        "clashroyaleapp.com",
-        "patagonia.com"
+        "clashroyaleapp.com"
+      ],
+      "domain_keyword": [
+        "patagonia"
       ]
     }
   ]
