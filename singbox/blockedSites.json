@@ -4,6 +4,9 @@
     {
       "domain_suffix": [
         "poki.com"
+      ],
+      "ip_cidr": [
+        "192.168.10.215/32"
       ]
     }
   ]
