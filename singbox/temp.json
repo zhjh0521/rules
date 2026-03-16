@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "amytele.co",
+        "supercell.com",
+        "clashroyaleapp.com",
+        "clashroyale.com"
+      ],
+      "domain_keyword": [
+        "patagonia"
+      ]
+    }
+  ]
+}
