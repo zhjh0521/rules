@@ -11,11 +11,6 @@
       "domain_keyword": [
         "patagonia"
       ]
-    },
-    {
-      "source_ip_cidr": [
-        "192.168.10.186/32"
-      ]
     }
   ]
 }
