@@ -2,11 +2,6 @@
   "version": 3,
   "rules": [
     {
-      "source_ip_cidr": [
-        "192.168.10.186/32"
-      ]
-    },
-    {
       "domain_suffix": [
         "amytele.co",
         "supercell.com",
