@@ -10,8 +10,15 @@
         "dji.net",
         "dji.cn",
         "dji.com.cn",
-        "dji.com.cn"
+        "djicdn.com",
+        "aasky.net",
+        "djiits.com",
+        "djiservice.org",
+        "djiops.com"
       ]
+    },
+    {
+      "domain_keyword": ["dji"]
     },
     {
       "source_ip_cidr": [
