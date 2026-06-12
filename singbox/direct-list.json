@@ -3,7 +3,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "willz.vip"
+        "willz.vip",
+        "djigate.com",
+        "djigate.org",
+        "dji.com",
+        "dji.net",
+        "dji.cn",
+        "dji.com.cn",
+        "dji.com.cn"
       ]
     },
     {
