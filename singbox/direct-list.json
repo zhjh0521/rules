@@ -3,27 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "willz.vip",
-        "djigate.com",
-        "djigate.org",
-        "dji.com",
-        "dji.net",
-        "dji.cn",
-        "dji.com.cn",
-        "djicdn.com",
-        "aasky.net",
-        "djiits.com",
-        "djiservice.org",
-        "djiops.com",
-        "ustc.edu.cn"
-      ]
-    },
-    {
-      "domain_keyword": ["dji"]
-    },
-    {
-      "source_ip_cidr": [
-        "192.168.10.103/32"
+        "willz.vip"
       ]
     }
   ]
