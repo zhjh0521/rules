@@ -3,7 +3,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "poki.com"
+        "poki.com",
+        "mkey.163.com",
+        "mc.163.com",
+        "update.netease.com",
+        "matrix.netease.com",
+        "gsf.netease.com",
+        "unisdk.netease.com",
+        "minecraft-services.net"
       ]
     },
     {
