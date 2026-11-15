@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "willz.vip"
+        "willz.vip",
+        "tsingmicro.xyz"
       ]
     }
   ]
